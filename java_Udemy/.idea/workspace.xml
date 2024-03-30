@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="667eb26e-a817-4321-888e-754d54035763" name="Changes" comment="JAVA UDEMY 4/12/2023" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2QtYb0y47SMmWShVdDxzXZyAnfF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/home/malte/Descargas/JAVA UDEMY/poo_sobrecarga",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/luisc/OneDrive/Escritorio/java_Udemy/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\luisc\OneDrive\Documentos\JAVA UDEMY\java_Udemy\src\VariablesDate" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.luislm.app.jardin" />
+      <recent name="bPooAssaigment" />
+      <recent name="aPOO.auto" />
+      <recent name="aPOO" />
+      <recent name="matrices" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="667eb26e-a817-4321-888e-754d54035763" name="Changes" comment="" />
+      <created>1686174414321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686174414321</updated>
+      <workItem from="1686174415754" duration="3000" />
+      <workItem from="1686174849988" duration="489000" />
+      <workItem from="1686175840906" duration="1332000" />
+      <workItem from="1686259200153" duration="1483000" />
+      <workItem from="1686345323472" duration="7756000" />
+      <workItem from="1686692159424" duration="7773000" />
+      <workItem from="1686777902830" duration="6859000" />
+      <workItem from="1686864761930" duration="5973000" />
+      <workItem from="1686872828762" duration="1346000" />
+      <workItem from="1686951462105" duration="9630000" />
+      <workItem from="1687213075443" duration="6112000" />
+      <workItem from="1687278021279" duration="1496000" />
+      <workItem from="1687279787711" duration="101000" />
+      <workItem from="1687280013154" duration="25000" />
+      <workItem from="1687280067441" duration="42000" />
+      <workItem from="1687280208013" duration="255000" />
+      <workItem from="1687295616828" duration="6363000" />
+      <workItem from="1687383185572" duration="196000" />
+      <workItem from="1687383474067" duration="8674000" />
+      <workItem from="1687469056581" duration="7688000" />
+      <workItem from="1687556565238" duration="8016000" />
+      <workItem from="1687803775204" duration="4367000" />
+      <workItem from="1687808529431" duration="2680000" />
+      <workItem from="1687815395254" duration="3569000" />
+      <workItem from="1687904324149" duration="4301000" />
+      <workItem from="1687909165310" duration="3281000" />
+      <workItem from="1687989550216" duration="8480000" />
+      <workItem from="1688072985295" duration="10206000" />
+      <workItem from="1688159552042" duration="10801000" />
+      <workItem from="1688423028682" duration="6338000" />
+      <workItem from="1688505698531" duration="10598000" />
+      <workItem from="1688591875425" duration="9849000" />
+      <workItem from="1688680797467" duration="5201000" />
+      <workItem from="1689019246136" duration="8683000" />
+      <workItem from="1689102414016" duration="8777000" />
+      <workItem from="1689283057307" duration="3536000" />
+      <workItem from="1689364351436" duration="1091000" />
+      <workItem from="1689365588770" duration="6754000" />
+      <workItem from="1689629993966" duration="2856000" />
+      <workItem from="1689799545623" duration="7007000" />
+      <workItem from="1689888543960" duration="6247000" />
+      <workItem from="1689974196940" duration="2813000" />
+      <workItem from="1690887217343" duration="5707000" />
+      <workItem from="1690973771758" duration="44000" />
+      <workItem from="1690973889430" duration="342000" />
+      <workItem from="1690974368576" duration="493000" />
+      <workItem from="1690974886409" duration="4843000" />
+      <workItem from="1691146847576" duration="2255000" />
+      <workItem from="1691149861903" duration="4933000" />
+      <workItem from="1691271469767" duration="1453000" />
+      <workItem from="1691578642945" duration="1504000" />
+      <workItem from="1691580392692" duration="4913000" />
+      <workItem from="1691753066487" duration="4935000" />
+      <workItem from="1691854193111" duration="1910000" />
+      <workItem from="1691876712804" duration="6042000" />
+      <workItem from="1692014910332" duration="2897000" />
+      <workItem from="1692096985038" duration="6148000" />
+      <workItem from="1692184813144" duration="738000" />
+      <workItem from="1692654027654" duration="1606000" />
+      <workItem from="1692970122650" duration="2426000" />
+      <workItem from="1693081983780" duration="1756000" />
+      <workItem from="1700336588654" duration="410000" />
+      <workItem from="1701733021933" duration="1103000" />
+      <workItem from="1701791467766" duration="14000" />
+      <workItem from="1701793635153" duration="887000" />
+      <workItem from="1701797108331" duration="624000" />
+      <workItem from="1701878610118" duration="632000" />
+      <workItem from="1702515547482" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="JAVA UDEMY 4/12/2023">
+      <option name="closed" value="true" />
+      <created>1701733691882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701733691882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JAVA UDEMY 4/12/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAVA UDEMY 4/12/2023" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/operadores/OperadorInstenceOfTipoGenerico.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/operadores/AssignmentOrdenar.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/flujoDeControl/AssignmentMultiplicacion.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arreglos/AgregarElementoEnPosicionAdecuadaNuevoArray.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/matrices/AssignmentCostruirX.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aPOO/auto/Auto.java</url>
+          <line>323</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="20" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="30" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/arreglos/organizarArregloIdiceToo.java</url>
+          <line>32</line>
+          <properties class="arreglos.organizarArregloIdiceToo" method="sortOpti">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/arreglos/ImprimirPrimeroYUltimo.java</url>
+          <line>21</line>
+          <properties class="arreglos.ImprimirPrimeroYUltimo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/arreglos/BusquedaBinaria.java</url>
+          <line>5</line>
+          <properties class="arreglos.BusquedaBinaria" method="busqueda">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/org/luislm/app/hogar/Persona.java</url>
+          <line>8</line>
+          <properties field="GENERO_MASCULINO" class="org.luislm.app.hogar.Persona" />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
