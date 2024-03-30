@@ -2,20 +2,20 @@ package Mamiferos;
 
 public abstract class Canino extends Mamifero {
     protected String color;
-    protected  float tamañocolmillos;
+    protected  float tamanocolmillos;
 
     public Canino(String habitat, String nombreCientifico,
-                  float altura, float peso, float largo, String color, float tamañocolmillos) {
+                  float altura, float peso, float largo, String color, float tamanocolmillos) {
         super(habitat, nombreCientifico, altura, peso, largo);
         this.color = color;
-        this.tamañocolmillos = tamañocolmillos;
+        this.tamanocolmillos = tamanocolmillos;
     }
 
     public String getColor() {
         return color;
     }
 
-    public float getTamañocolmillos() {
-        return tamañocolmillos;
+    public float getTamanocolmillos() {
+        return tamanocolmillos;
     }
 }
