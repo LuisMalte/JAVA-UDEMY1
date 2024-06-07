@@ -134,6 +134,6 @@ public class ClienteListRepositorio /*implements CrudRepositorio,
 
     @Override
     public int total() {
-        return  this.dataSource.size();
+        return  this.dataSource .size();
     }
 }
