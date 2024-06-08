@@ -1,5 +1,5 @@
 package org.luisml.poointerfaces.repositorio;
 
-public interface contable {
+public interface Contable {
     int total();
 }

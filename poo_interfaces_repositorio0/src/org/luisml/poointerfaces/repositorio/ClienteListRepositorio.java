@@ -6,11 +6,16 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class ClienteListRepositorio /*implements CrudRepositorio,
-        OrdenableRepositorio,PaginableRepositorio*/ implements CompletoRopositorio{
+/*public class ClienteListRepositorio  *//*implements CrudRepositorio,
+        OrdenableRepositorio,PaginableRepositorio*//* implements CompletoRopositorio{
+
+
+
+Se paso a una forma generica por eso la <T>*/
+public class ClienteListRepositorio  extends AbstractaListRepositorio <Cliente>{
     private List<Cliente> dataSource;
 
-    public ClienteListRepositorio() {
+ /*   public ClienteListRepositorio() {
         this.dataSource= new ArrayList<>(); //se inicializa la lista para que cada vez que se cree tenga la clase tenga la
         //lista
     }
@@ -19,7 +24,7 @@ public class ClienteListRepositorio /*implements CrudRepositorio,
     public List<Cliente> listar() {
         return dataSource;
     }
-
+*/
     @Override
     public Cliente porId(Integer id) {
         Cliente c= null;
@@ -32,11 +37,13 @@ public class ClienteListRepositorio /*implements CrudRepositorio,
         return c;
     }
 
+/*
     @Override
     public void crear(Cliente cliente) {
         this.dataSource.add(cliente);
 
     }
+*/
 
     @Override
     public void editar(Cliente cliente) {
@@ -47,11 +54,11 @@ public class ClienteListRepositorio /*implements CrudRepositorio,
 
     }
 
-    @Override
+   /* @Override
     public void eliminar(Integer id) {
         dataSource.remove(this.porId(id));
 
-    }
+    }*/
 
 /*    @Override
     public List<Cliente> list(String campo, Direccion direccion) {
@@ -95,8 +102,8 @@ public class ClienteListRepositorio /*implements CrudRepositorio,
     }*/
 
     public List<Cliente> list(String campo, Direccion direccion) {
-    List<Cliente> listaOrdenada = new ArrayList<>(this.dataSource);
-                listaOrdenada.sort((a,b)->{
+        List<Cliente> listaOrdenada = new ArrayList<>(this.dataSource);
+        listaOrdenada.sort((a,b)->{
                     int resultado =0;
                     if(direccion== Direccion.ASC){
                         resultado = ordenar(campo, a, b);
@@ -111,10 +118,10 @@ public class ClienteListRepositorio /*implements CrudRepositorio,
         return listaOrdenada;
     }
 
-    @Override
+ /*   @Override
     public List<Cliente> list(int desde, int hasta) {
-        return dataSource.subList(desde,hasta); /*subconjunto de la lista   */
-    }
+        return dataSource.subList(desde,hasta); *//*subconjunto de la lista   *//*
+    }*/
     public static int  ordenar(String campo,Cliente a,Cliente b ) {
         int resultado = 0;
         switch (campo){
@@ -132,8 +139,10 @@ public class ClienteListRepositorio /*implements CrudRepositorio,
     }
 
 
-    @Override
+/*    @Override
     public int total() {
         return  this.dataSource .size();
-    }
+    }*/
 }
+
+
